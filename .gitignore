@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# zip files
+*.zip
+.next.zip
+deploy.zip
+deploy-complete.zip
+
+# local wrappers (generated during development)
+/pages/
+/scripts/
